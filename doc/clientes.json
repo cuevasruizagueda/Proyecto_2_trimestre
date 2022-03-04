@@ -1,0 +1,287 @@
+[{
+  "_id": 1,
+  "Nombre": "Fran",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Conde 7",
+  "Localidad": "El Viso del Alcor",
+  "Número_teléfono": 614032883,
+  "Genero": "M"
+},{
+  "_id": 2,
+  "Nombre": "Fran",
+  "Servicio": " Cejas",
+  "Precio": 3,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Conde 7",
+  "Localidad": "El Viso del Alcor",
+  "Número_teléfono": 614032883,
+  "Genero": "M"
+},{
+  "_id": 3,
+  "Nombre": "Edu",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Lora del Rio 29",
+  "Número_teléfono": 679205187,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "M"
+},{
+  "_id": 4,
+  "Nombre": "Edu",
+  "Servicio": " Cejas",
+  "Precio": 3,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Lora del Rio 29",
+  "Número_teléfono": 679205187,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "M"
+},{
+  "_id": 5,
+  "Nombre": "Tamara",
+  "Servicio": "Porcelana ",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Corrales n° 12",
+  "Localidad": "Mairena del Alcor",
+  "Número_teléfono": 622490638,
+  "Genero": "F"
+},{
+  "_id": 6,
+  "Nombre": "Tamara",
+  "Servicio": "cejas",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Corrales n° 12",
+  "Localidad": "Mairena del Alcor",
+  "Número_teléfono": 622490638,
+  "Genero": "F"
+},{
+  "_id": 7,
+  "Nombre": "Tamara",
+  "Servicio": "labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Corrales n° 12",
+  "Localidad": "Mairena del Alcor",
+  "Número_teléfono": 622490638,
+  "Genero": "F"
+},{
+  "_id": 8,
+  "Nombre": "Ángela",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Real 18",
+  "Número_teléfono": 672910439,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 9,
+  "Nombre": "Ángela",
+  "Servicio": "Cejas ",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Real 18",
+  "Número_teléfono": 672910439,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 10,
+  "Nombre": "Ángela",
+  "Servicio": " Labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Real 18",
+  "Número_teléfono": 672910439,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 11,
+  "Nombre": "Carolina Vecina",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Manuel de los Santos",
+  "Número_teléfono": 658010398,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 12,
+  "Nombre": "Tita Ana",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Sevilla 87",
+  "Número_teléfono": 608002345,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 13,
+  "Nombre": "Salud Escribano",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle La Muela  5",
+  "Número_teléfono": 654802817,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 14,
+  "Nombre": "Luisa del Pilar",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Feria 55",
+  "Número_teléfono": 611730634,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 15,
+  "Nombre": "Carla",
+  "Servicio": "Ceja ",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Sol 33",
+  "Número_teléfono": 655490120,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 16,
+  "Nombre": "Carla",
+  "Servicio": "labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Sol 33",
+  "Número_teléfono": 655490120,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 17,
+  "Nombre": "Pilar",
+  "Servicio": "Porcelana ",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Guadalete 48",
+  "Número_teléfono": 765030918,
+  "Localidad": "Mairena del Alcor",
+  "Genero": "F"
+},{
+  "_id": 18,
+  "Nombre": "Pilar",
+  "Servicio": "cejas con hilo",
+  "Precio": 5,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "Calle Guadalete 48",
+  "Número_teléfono": 765030918,
+  "Localidad": "Mairena del Alcor",
+  "Genero": "F"
+},{
+  "_id": 19,
+  "Nombre": "Ángela",
+  "Servicio": "Ceja",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Paradas 5",
+  "Número_teléfono": 634810975,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 20,
+  "Nombre": "Angélica",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Estepa 82",
+  "Número_teléfono": 729047146,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 21,
+  "Nombre": "Brenda",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  },
+  "Dirección": "calle Doctor Fleming 28",
+  "Número_teléfono": 665341210,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+},{
+  "_id": 22,
+  "Nombre": "Virginia",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  },
+  "Dirección": "Calle Tocina 15",
+  "Número_teléfono": 629478091,
+  "Localidad": "El Viso del Alcor",
+  "Genero": "F"
+}]

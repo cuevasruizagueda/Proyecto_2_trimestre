@@ -1,0 +1,200 @@
+[{
+  "_id": 0,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Esmalte permanente Vintage Rose",
+  "Categoría": "Esmalte de uña",
+  "Cantidad": 1,
+  "Precioporunidad": 7.75,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2020-04-01T08:10:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2020-04-02T08:11:00Z"
+  }
+},{
+  "_id": 1,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Polvo acrílico Cover Peach (60g)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 9.2,
+  "Servicio": [
+    "Porcelana",
+    "Practica de Diseño"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2020-05-11T08:08:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2020-05-12T08:09:00Z"
+  }
+},{
+  "_id": 2,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura 24",
+  "Producto": "Líquido Acrílico (250ml)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 10,
+  "Servicio": [
+    "Porcelana",
+    "Diseño"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2021-04-10T08:13:12Z"
+  },
+  "fecha_entrega": {
+    "$date": "2021-04-11T08:14:00Z"
+  }
+},{
+  "_id": 3,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Nailprep (10ml)",
+  "Categoría": "Preparado de uña",
+  "Cantidad": 2,
+  "Precioporunidad": 3.95,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2021-04-01T08:00:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2021-04-01T08:10:00Z"
+  }
+},{
+  "_id": 4,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Moldes Rana (500 unidades)",
+  "Categoría": [
+    "Porcelana",
+    "Diseño"
+  ],
+  "Cantidad": 1,
+  "Precioporunidad": 9.95,
+  "Servicio": "Porcelana",
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2022-01-01T08:00:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2022-01-02T08:00:00Z"
+  }
+},{
+  "_id": 5,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "120 tips Stiletto Nailart",
+  "Categoría": "Diseño",
+  "Cantidad": 1,
+  "Precioporunidad": 5.99,
+  "Servicio": [
+    "Diseño",
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2022-02-24T08:00:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2022-02-25T08:00:00Z"
+  }
+},{
+  "_id": 6,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Gel Sun Yellow",
+  "Categoría": "Dibujo",
+  "Cantidad": 1,
+  "Precioporunidad": 4.45,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2021-12-22T08:10:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2021-12-23T08:10:00Z"
+  }
+},{
+  "_id": 7,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Gel Pure Blue",
+  "Categoría": "Dibujo",
+  "Cantidad": 1,
+  "Precioporunidad": 4.45,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2021-09-01T08:12:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2021-09-02T08:13:00Z"
+  }
+},{
+  "_id": 9,
+  "CIF": "B55284996",
+  "Proveedor": "Manicura24",
+  "Producto": "Polvo Acrílico Butterfly (10gr)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 2.9,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ],
+  "Direccion": "Avda de França 22",
+  "Telefono": 872987071,
+  "Email": "info@manicura24.com",
+  "vende_online": true,
+  "fecha_compra": {
+    "$date": "2020-04-01T08:00:00Z"
+  },
+  "fecha_entrega": {
+    "$date": "2020-04-11T08:00:00Z"
+  }
+}]

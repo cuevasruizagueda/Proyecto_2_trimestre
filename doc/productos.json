@@ -1,0 +1,92 @@
+[{
+  "_id": 0,
+  "Producto": "Esmalte permanente Vintage Rose",
+  "Categoría": "Esmalte de uña",
+  "Cantidad": 1,
+  "Precioporunidad": 7.75,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+},{
+  "_id": 1,
+  "Producto": "Polvo acrílico Cover Peach (60g)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 9.2,
+  "Servicio": [
+    "Porcelana",
+    "Practica de Diseño"
+  ]
+},{
+  "_id": 2,
+  "Producto": "Líquido Acrílico (250ml)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 10,
+  "Servicio": [
+    "Porcelana",
+    "Diseño"
+  ]
+},{
+  "_id": 3,
+  "Producto": "Nailprep (10ml)",
+  "Categoría": "Preparado de uña",
+  "Cantidad": 2,
+  "Precioporunidad": 3.95,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+},{
+  "_id": 4,
+  "Producto": "Moldes Rana (500 unidades)",
+  "Categoría": [
+    "Porcelana",
+    "Diseño"
+  ],
+  "Cantidad": 1,
+  "Precioporunidad": 9.95,
+  "Servicio": "Porcelana"
+},{
+  "_id": 5,
+  "Producto": "120 tips Stiletto Nailart",
+  "Categoría": "Diseño",
+  "Cantidad": 1,
+  "Precioporunidad": 5.99,
+  "Servicio": [
+    "Diseño",
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+},{
+  "_id": 6,
+  "Producto": "Gel Sun Yellow",
+  "Categoría": "Dibujo",
+  "Cantidad": 1,
+  "Precioporunidad": 4.45,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+},{
+  "_id": 7,
+  "Producto": "Gel Pure Blue",
+  "Categoría": "Dibujo",
+  "Cantidad": 1,
+  "Precioporunidad": 4.45,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+},{
+  "_id": 9,
+  "Producto": "Polvo Acrílico Butterfly (10gr)",
+  "Categoría": "Porcelana",
+  "Cantidad": 1,
+  "Precioporunidad": 2.9,
+  "Servicio": [
+    "Esmalte permanente",
+    "Porcelana"
+  ]
+}]

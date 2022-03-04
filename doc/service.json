@@ -1,0 +1,199 @@
+[{
+  "_id": 1,
+  "Nombre": "Fran",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 2,
+  "Nombre": "Fran",
+  "Servicio": " Cejas",
+  "Precio": 3,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 3,
+  "Nombre": "Edu",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 4,
+  "Nombre": "Edu",
+  "Servicio": " Cejas",
+  "Precio": 3,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 5,
+  "Nombre": "Tamara",
+  "Servicio": "Porcelana ",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 6,
+  "Nombre": "Tamara",
+  "Servicio": "cejas",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 7,
+  "Nombre": "Tamara",
+  "Servicio": "labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 8,
+  "Nombre": "Ángela",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 9,
+  "Nombre": "Ángela",
+  "Servicio": "Cejas ",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 10,
+  "Nombre": "Ángela",
+  "Servicio": " Labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 11,
+  "Nombre": "Carolina Vecina",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 12,
+  "Nombre": "Tita Ana",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 13,
+  "Nombre": "Salud Escribano",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 14,
+  "Nombre": "Luisa del Pilar",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 15,
+  "Nombre": "Carla",
+  "Servicio": "Ceja ",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 16,
+  "Nombre": "Carla",
+  "Servicio": "labio",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 17,
+  "Nombre": "Pilar",
+  "Servicio": "Porcelana ",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 18,
+  "Nombre": "Pilar",
+  "Servicio": "cejas con hilo",
+  "Precio": 5,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 19,
+  "Nombre": "Ángela",
+  "Servicio": "Ceja",
+  "Precio": 4,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 20,
+  "Nombre": "Angélica",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+},{
+  "_id": 21,
+  "Nombre": "Brenda",
+  "Servicio": "Porcelana",
+  "Precio": 20,
+  "Pago": {
+    "Pago_Bizum": true,
+    "Pago_Efectivo": false
+  }
+},{
+  "_id": 22,
+  "Nombre": "Virginia",
+  "Servicio": "Esmalte permanente",
+  "Precio": 10,
+  "Pago": {
+    "Pago_Bizum": false,
+    "Pago_Efectivo": true
+  }
+}]
